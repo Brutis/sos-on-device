@@ -30,6 +30,6 @@ void setup()
 
 void loop()                    
 {
-      mySerial.print(2);
+      mySerial.print(1);
       delay(5000);
 }
